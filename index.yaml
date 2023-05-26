@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  teslaapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-26T02:57:58.768362323Z"
+    description: A Helm chart for Kubernetes
+    digest: d90bebcbc980f217024f6fbdac7828184405667c2402ff2261fe441c31175669
+    name: teslaapp
+    type: application
+    urls:
+    - teslaapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-26T02:57:58.767334991Z"
